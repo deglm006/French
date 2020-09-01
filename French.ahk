@@ -15,6 +15,7 @@
 ;
 ;Works with most programs, but seems to have some problems with a few. Issues seem to have been fixed.
 ;Contact deglm006@morris.umn.edu if you want help chaning the key secuences for the accents or would like help resolving other issues with the script.
+;Script may be updated in the future. For the most up to date version check https://github.com/deglm006/French
 ;
 :*?:''a::á
 :*?:````a::à
