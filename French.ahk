@@ -1,4 +1,4 @@
-﻿;This script provides key sequences for typing French accents on Windows.
+;This script provides key sequences for typing French accents on Windows.
 ;
 ;How to use: 	Install autohotkey https://www.autohotkey.com/
 ;		save this file with a .ahk extension
@@ -13,33 +13,33 @@
 ;Type 	,,c for ç
 ;Accents work for both capital and lowercase letters
 ;
-;Works with most programs, but seems to have some problems with a few.
+;Works with most programs, but seems to have some problems with a few. Issues seem to have been fixed.
 ;Contact deglm006@morris.umn.edu if you want help chaning the key secuences for the accents or would like help resolving other issues with the script.
 ;
-:*:''a::á
-:*:````a::à
-:*:^^a::â
-:*:""a::ä
+:*?:''a::á
+:*?:````a::à
+:*?:^^a::â
+:*?:""a::ä
 ;
-:*:,,c::ç
+:*?:,,c::ç
 ;
-:*:''e::é
-:*:````e::è
-:*:^^e::ê
-:*:""e::ë
+:*?:''e::é
+:*?:````e::è
+:*?:^^e::ê
+:*?:""e::ë
 ;
-:*:''i::í
-:*:````i::ì
-:*:^^i::î
-:*:""i::ï
+:*?:''i::í
+:*?:````i::ì
+:*?:^^i::î
+:*?:""i::ï
 ;
-:*:''o::ó
-:*:````o::ò
-:*:^^o::ô
-:*:""o::ö
+:*?:''o::ó
+:*?:````o::ò
+:*?:^^o::ô
+:*?:""o::ö
 ;
-:*:''u::ú
-:*:````u::ù
-:*:^^u::û
-:*:""u::ü
+:*?:''u::ú
+:*?:````u::ù
+:*?:^^u::û
+:*?:""u::ü
 ;
