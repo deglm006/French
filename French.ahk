@@ -17,6 +17,8 @@
 ;Contact deglm006@morris.umn.edu if you want help chaning the key secuences for the accents or would like help resolving other issues with the script.
 ;Script may be updated in the future. For the most up to date version check https://github.com/deglm006/French
 ;
+;The author of this work hereby waives all claim of copyright in this work and immediately places it in the public domain
+;
 :*?:''a::á
 :*?:````a::à
 :*?:^^a::â
