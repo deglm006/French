@@ -4,4 +4,6 @@ Type '' before a vowel for an accent aigu, `` for an accent grave, ^^ for accent
 
 Type ,, before c for a cédille. 
 
+Type .oe for œ.
+
 See file for additional information on how to use.
